@@ -1,0 +1,27 @@
+--- 
+project_id: <project_id>
+dataset_id: <dataset_id>
+table_name: <table_name>
+column_name: <column_name>
+rules:
+  - null_check
+  - uniqueness_check
+
+---
+project_id: <project_id>
+dataset_id: <dataset_id>
+table_name: <table_name>
+column_name: <column_name>
+rules:
+  - null_check
+  - uniqueness_check
+
+---
+project_id: <project_id>
+dataset_id: <dataset_id>
+table_name: <table_name>
+column_name: <column_name>
+rules:
+  - null_check
+  - regex_valid_email
+  - uniqueness_check
